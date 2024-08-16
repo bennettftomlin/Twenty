@@ -20,7 +20,7 @@ If they purchase a die, the player places that much into the pot and then rolls 
 
 If the player holds they can not purchase any more die for this round.
 
-Once all dice have been purchased and rolled, the winner takes the pot. 
+Once all dice have been purchased and rolled, or if both players have chosen to 'hold' the winner takes the pot. 
 
 If the players have the same total, then the pot is split.
 
