@@ -10,6 +10,8 @@ A simple dice game
 ## Rules
 Twenty is a two player gambling game. The goal is to get as close to 20 as possible, without going over.
 
+There are 7 total dice available: 4, 6, 8, 10, 10, 12, 20.
+
 Both players begin by paying the blind (generally one token each).
 
 Coin is flipped (or dice are rolled) to determine which player will go first.
