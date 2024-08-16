@@ -8,7 +8,7 @@ A simple dice game
 | Cost | 1 | 2 | 3 | 4 | 4 | 5 | 6 |
 
 ## Rules
-Twenty is a two player gambling game. The goal is to get as close to 20 as possible, without going in.
+Twenty is a two player gambling game. The goal is to get as close to 20 as possible, without going over.
 
 Both players begin by paying the blind (generally one token each).
 
@@ -19,6 +19,8 @@ That player can then either purchase a die, or hold.
 If they purchase a die, the player places that much into the pot and then rolls the die, adding it to their 'total'.
 
 If the player holds they can not purchase any more die for this round.
+
+Play then proceeds to the next player.
 
 Once all dice have been purchased and rolled, or if both players have chosen to 'hold' the winner takes the pot. 
 
