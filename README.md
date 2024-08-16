@@ -4,6 +4,7 @@ A simple dice game
 ## Dice Cost
 
 | Die | 4 | 6 | 8 | 10 | 10 | 12 | 20 |
+| ---- | - | - | - | - | - | - | - |
 | Cost | 1 | 2 | 3 | 4 | 4 | 5 | 6 |
 
 ## Rules
